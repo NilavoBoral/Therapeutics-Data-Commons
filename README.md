@@ -1,5 +1,5 @@
 # Therapeutics-Data-Commons
-Predicting the effective permeability of drugs in human colon epithelial cancer cell line.
+Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) Properties of Drug Molecule.
 
 ---
 Using 31 Descriptors & different ML models with Parameter tuning.
