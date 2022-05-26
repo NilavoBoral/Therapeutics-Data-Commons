@@ -11,9 +11,9 @@ For checking correlation between every features of each dataset : [Features_Corr
 
 ## <ins>To reproduce and reuse seledted models, follow the steps mentioned below</ins> :
 
-1. Load selected models for regression datasets from : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
+1. Load selected models for regression datasets from [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
 
-2. Load selected models for classification datasets from : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
+2. Load selected models for classification datasets from [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
 
 3. Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
