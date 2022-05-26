@@ -5,6 +5,10 @@ Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) 
 
 Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb) for `model selection for each dataset`.
 
+`Selected models for regression datasets` : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
+
+`Selected models for classification datasets` : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
+
 Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
 ---
