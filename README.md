@@ -6,7 +6,7 @@ Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) 
 Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb) for feature extraction, model selection and predict for in set.
 
 ---
-Results for test set, after 5 independent runs:
+**Results for test set, after 5 independent runs:**
 
 
 {'ames': [0.716, 0.0],
@@ -54,7 +54,7 @@ Results for test set, after 5 independent runs:
  'vdss_lombardo': [0.627, 0.01]}
  
 ---
-Using 31 Descriptors & different ML models with Parameter tuning.
+**Using 31 Descriptors & different ML models with Parameter tuning.**
 
   Regression Problems :-
   
