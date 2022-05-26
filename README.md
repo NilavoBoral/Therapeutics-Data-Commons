@@ -9,7 +9,7 @@ Model selection for each dataset : [Model selection for all datasets.ipynb](http
 
 ---
 
-## <ins>To reproduce and reuse seledted models, follow the steps mentioned below</ins> :
+## <ins>To reproduce and reuse selected models, follow the steps mentioned below</ins> :
 
 1. Load selected models for regression datasets from [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl).
 
