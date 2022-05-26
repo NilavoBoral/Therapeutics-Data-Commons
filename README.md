@@ -3,7 +3,7 @@
 
 **Using `31 Descriptors` & `different ML models with Parameter tuning`.**
 
-Checking correlation between every features of each dataset : [Features_Correlation.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Features_Correlation.ipynb)
+Checking correlation between every features of each dataset : [Features_Correlation.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Features_Correlation.ipynb).
 
 Model selection for each dataset : [Model selection for all datasets.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Model%20selection%20for%20all%20datasets.ipynb).
 
