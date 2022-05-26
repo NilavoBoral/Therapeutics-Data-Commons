@@ -3,11 +3,17 @@ Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) 
 
 ---
 
-Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb) for `model selection for each dataset`.
+For model selection for each dataset : [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb).
 
-Selected models for regression datasets : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
+For checking correlation between every features of each dataset : [Features_Correlation.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Features_Correlation.ipynb)
 
-Selected models for classification datasets : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
+---
+
+## To reproduce and reuse follow the steps mentioned below:
+
+Load selected models for regression datasets from : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
+
+Load selected models for classification datasets from : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
 
 Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
