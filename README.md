@@ -1,4 +1,4 @@
-# Therapeutics-Data-Commons
+# Prediction of Drug ADMET Properties
 Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) Properties of Drug Molecule.
 
 ---
