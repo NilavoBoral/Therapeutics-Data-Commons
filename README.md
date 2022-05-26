@@ -10,7 +10,7 @@ Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/Nil
 **Results for test set, after 5 independent runs:**
 
 | **Dataset**                    | Model                     |Matric      | Score         | Rank |
-| ------------------------------ |:-------------------------:|:----------:|:-------------:|:----:|
+| ------------------------------ | ------------------------- |:----------:|:-------------:|:----:|
 | *`ABSORPTION`*                                                                                 |
 | caco2_wang                     | AdaBoostRegressor         | MAE ↓      | 0.321 ± 0.005 | 2    |
 | hia_hou                        | BaggingClassifier         | AUROC ↑    | 0.818 ± 0.01  | 9    |
