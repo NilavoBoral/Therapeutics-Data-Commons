@@ -2,7 +2,9 @@
 Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) Properties of Drug Molecule.
 
 ---
-Run ADMET_Properties_Prediction_Using_Descriptors.ipynb for feature extraction, model selection and predict for in set.
+
+**Run ADMET_Properties_Prediction_Using_Descriptors.ipynb for feature extraction, model selection and predict for in set.**
+
 ---
 Results for test set, after 5 independent runs:
 
