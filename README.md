@@ -3,7 +3,9 @@ Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) 
 
 ---
 
-Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb) for `feature extraction`, `model selection` and `predict for test set`.
+Run [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb) for `model selection for each dataset`.
+
+Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
 ---
 ## Results
