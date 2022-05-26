@@ -1,7 +1,7 @@
 # Prediction of Drug ADMET Properties
-Predicting Absorption, Distribution, Metabolism, Excretion and Toxicity (ADMET) Properties of Drug Molecule.
+**Predicting `Absorption`, `Distribution`, `Metabolism`, `Excretion` and `Toxicity` (ADMET) Properties of Drug Molecule**.
 
----
+**Using `31 Descriptors` & `different ML models with Parameter tuning`.**
 
 For model selection for each dataset : [ADMET_Properties_Prediction_Using_Descriptors.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET_Properties_Prediction_Using_Descriptors.ipynb).
 
@@ -9,7 +9,7 @@ For checking correlation between every features of each dataset : [Features_Corr
 
 ---
 
-## To reproduce and reuse follow the steps mentioned below :
+## <ins>To reproduce and reuse seledted models, follow the steps mentioned below</ins> :
 
 1. Load selected models for regression datasets from : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
 
@@ -18,10 +18,10 @@ For checking correlation between every features of each dataset : [Features_Corr
 3. Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
 ---
-### Results
-**Results for test set, after 5 independent runs:**
+### <ins>Results</ins> :
+**Results for test set (after 5 independent runs) are shown in the following table.**
 
-| **Dataset**                    | Model                     |Matric      | Performance   | Rank |
+| **Dataset**                    | Model                     | Matric     | Performance   | Rank |
 | ------------------------------ | ------------------------- |:----------:|:-------------:|:----:|
 | *`ABSORPTION`*                                                                                 |
 | caco2_wang                     | AdaBoostRegressor         | MAE ↓      | 0.321 ± 0.005 | 2    |
@@ -52,8 +52,7 @@ For checking correlation between every features of each dataset : [Features_Corr
 | ld50_zhu                       | ExtraTreesRegressor       | MAE ↓      | 0.636 ± 0.001 | 4    |
 
 ---
-### Summary
-**Using 31 Descriptors & different ML models with Parameter tuning.**
+### <ins>Summary</ins> :
 
   Regression Problems :-
   
