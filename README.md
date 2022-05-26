@@ -9,16 +9,16 @@ For checking correlation between every features of each dataset : [Features_Corr
 
 ---
 
-## To reproduce and reuse follow the steps mentioned below:
+## To reproduce and reuse follow the steps mentioned below :
 
-Load selected models for regression datasets from : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
+1. Load selected models for regression datasets from : [best_model_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_model_series.pkl)
 
-Load selected models for classification datasets from : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
+2. Load selected models for classification datasets from : [best_Cmodel_series.pkl](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/best_Cmodel_series.pkl)
 
-Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
+3. Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/ADMET%20Prediction.ipynb) for `feature extraction` and `predict for test set by selected models`.
 
 ---
-## Results
+### Results
 **Results for test set, after 5 independent runs:**
 
 | **Dataset**                    | Model                     |Matric      | Performance   | Rank |
@@ -52,7 +52,7 @@ Run [ADMET Prediction.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Co
 | ld50_zhu                       | ExtraTreesRegressor       | MAE ↓      | 0.636 ± 0.001 | 4    |
 
 ---
-## Summary
+### Summary
 **Using 31 Descriptors & different ML models with Parameter tuning.**
 
   Regression Problems :-
