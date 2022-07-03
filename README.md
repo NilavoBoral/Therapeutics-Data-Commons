@@ -3,6 +3,10 @@
 
 **Using `31 Descriptors` & `different ML models with Parameter tuning`.**
 
+Preprint paper: [Accountable Prediction of Drug ADMET Properties with Molecular Descriptors](https://www.biorxiv.org/content/10.1101/2022.06.29.115436v1)
+
+---
+
 Checking correlation between every features for each dataset : [Features_Correlation.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Features_Correlation.ipynb).
 
 Checking importance of every feature for each dataset : [Feature_Rank.ipynb](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Feature_Rank.ipynb).
