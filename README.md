@@ -23,8 +23,8 @@ Model selection for each dataset : [Model selection for all datasets.ipynb](http
 ### <ins>Results</ins> :
 **Results for test set (after 5 independent runs) are shown in the following table.**
 
-| **Dataset**                    | Model                     |Parameters [Details](https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Model%20selection%20for%20all%20datasets.ipynb)| Matric     | Performance   | Rank |
-| ------------------------------ | ------------------------- |----|:----------:|:-------------:|:----:|
+| **Dataset**                    | Model                     |No. of Parameters `[Details]`(https://github.com/NilavoBoral/Therapeutics-Data-Commons/blob/main/Model%20selection%20for%20all%20datasets.ipynb)| Matric     | Performance   | Rank |
+| ------------------------------ | ------------------------- |:----:|:----------:|:-------------:|:----:|
 | *`ABSORPTION`*                                                                                 |
 | caco2_wang                     | AdaBoostRegressor         |4| MAE ↓      | 0.321 ± 0.005 | 2    |
 | hia_hou                        | BaggingClassifier         |4| AUROC ↑    | 0.818 ± 0.01  | 9    |
