@@ -3,7 +3,7 @@
 
 **Using `31 Descriptors` & `different ML models with Parameter tuning`.**
 
-Preprint paper: [Accountable Prediction of Drug ADMET Properties with Molecular Descriptors](https://www.biorxiv.org/content/10.1101/2022.06.29.115436v1)
+**bioRxiv article:** [Accountable Prediction of Drug ADMET Properties with Molecular Descriptors](https://www.biorxiv.org/content/10.1101/2022.06.29.115436v1)
 
 ---
 
